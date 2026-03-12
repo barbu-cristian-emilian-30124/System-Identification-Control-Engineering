@@ -1,3 +1,4 @@
+![Project Cover](coperta.png)
 # Level Regulation & System Identification
 **Academic Project | Technical University of Cluj-Napoca**
 
